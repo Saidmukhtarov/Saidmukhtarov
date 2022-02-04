@@ -1,2 +1,2 @@
 ### Saidmahkam SAIDMUKHTAROV
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saidmukhtarov&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saidmukhtarov&theme=dracula)
