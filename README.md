@@ -1,4 +1,4 @@
-### Saidmahkam SAIDMUKHTAROV
+### GitHub stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saidmukhtarov&theme=dracula)
 
 
